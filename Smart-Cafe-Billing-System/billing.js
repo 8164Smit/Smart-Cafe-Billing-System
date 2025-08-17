@@ -11,7 +11,7 @@ let finalAmt = 0;
 let ch;
 
 do {
-    console.log("Smart Cafe Menu");
+    console.log("Smit Cafe Menu");
     console.log("1. Order");
     console.log("2. Bill");
     console.log("3. Discount");
@@ -114,3 +114,4 @@ do {
 
 console.log("Exit");
 console.log("Visit Again!");
+
